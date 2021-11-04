@@ -19,7 +19,7 @@ Heua la 'inea ma la na faksar
 ```
 ```
 Oi-lei papa 'ae se feke se ia
-Gou ne la 'es ke 'e fa riaria
+Gou ne la 'es ke 'e han/fa riaria
 Ka 'inea ne tes ta se 'ona keia
 Ka ia tae la 'es 'ao se 'isa
 ```
