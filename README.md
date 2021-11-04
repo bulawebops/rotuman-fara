@@ -3,4 +3,4 @@ I am compiling lyrics and music video provided by my friend Walter Aitu. Eventua
 
 1. [Suisui'akia – Takmatarua Ne Rotuma](/suisuiakia.md)
 2. [Leum Ma Faega 'E Mose](/leum-ma-faega-'e-mose.md)
-3. [Avat as ta pan se solo](/avat-as-ta-pan-se-solo.md)
+3. [Avat as ta pån se solo](/avat-as-ta-pan-se-solo.md)
