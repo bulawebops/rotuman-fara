@@ -1,4 +1,4 @@
-## Avat As Ta Pan Se Solo
+## Avat as ta pån se solo
 Tune: Blue Paloma Blancha
 ```
 Avat asta pan se solo
