@@ -6,3 +6,4 @@ I am compiling lyrics and music video provided by my friend Walter Aitu. Eventua
 3. [Avat as ta pån se solo](/avat-as-ta-pan-se-solo.md)
 4. [Hilihilia hanisi la’ se Fiti](/hilihilia-hanisi-la'-se-fiti.md)
 5. [Jau kita](/jau-kita.md)
+6. [Teranit ne gou ‘inea](/teranit-ne-gou-‘inea.md)
