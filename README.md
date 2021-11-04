@@ -5,4 +5,4 @@ I am compiling lyrics and music video provided by my friend Walter Aitu. Eventua
 2. [Leum Ma Faega 'E Mose](/leum-ma-faega-'e-mose.md)
 3. [Avat as ta pån se solo](/avat-as-ta-pan-se-solo.md)
 4. [Hilihilia hanisi la’ se Fiti](/hilihilia-hanisi-la'-se-fiti.md)
-5. [Jau Kita](/jau-kita.md)
+5. [Jau kita](/jau-kita.md)
