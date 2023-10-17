@@ -1,5 +1,5 @@
 # Rotuman Fara Music  
-I am compiling lyrics and music video provided by my friend Walter Aitu. Eventually I'd like to play the guitar like Walter so I can sing to my children everyday.
+I am compiling lyrics and music video provided by my friend and cousin Walter Aitu.
 
 1. [Suisui'akia – Takmatarua Ne Rotuma](/suisuiakia.md)
 2. [Leum Ma Faega 'E Mose](/leum-ma-faega-'e-mose.md)
